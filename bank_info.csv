@@ -1,0 +1,16 @@
+AccountNumber,CustomerName,IFSCCode,Balance,AccountNo,OpeningDate,AccountStatus,City,MobileNumber,Email
+100001,Aarav Sharma,SBIN0001001,15250.75,8475912,15-01-2023,Active,Pune,9876543210,harshkhulekar@gmail.com
+100002,Priya Verma,HDFC0002002,84500,8475912,10-09-2022,Active,Mumbai,9876543211,harshkhulekar@gmail.com
+100003,Rahul Patil,ICIC0003003,5200.5,8475912,01-02-2024,Dormant,Nagpur,9876543212,harshkhulekar@gmail.com
+100004,Sneha Joshi,AXIS0004004,98000,8475912,20-11-2021,Active,Nashik,9876543213,harshkhulekar@gmail.com
+100005,Vikram Singh,PNB0005005,150000.25,8475912,12-05-2020,Active,Delhi,9876543214,harshkhulekar@gmail.com
+100006,Neha Gupta,BOB0006006,2500,8475912,08-07-2023,Frozen,Indore,9876543215,harshkhulekar@gmail.com
+100007,Karan Mehta,YES0007007,7800.75,8475912,14-03-2022,Active,Surat,9876543216,harshkhulekar@gmail.com
+100008,Anjali Deshmukh,KKBK0008008,45120,8475912,30-08-2021,Active,Akola,9876543217,harshkhulekar@gmail.com
+100009,Rohan Kulkarni,UBIN0009009,210000,8475912,18-12-2019,Active,Aurangabad,9876543218,harshkhulekar@gmail.com
+100010,Pooja Nair,IDIB0010010,999.99,8475912,09-04-2024,Inactive,Kochi,9876543219,harshkhulekar@gmail.com
+100011,Aditya Rao,CNRB0011011,43000,8475912,16-06-2023,Active,Hyderabad,9876543220,harshkhulekar@gmail.com
+100012,Meera Iyer,IOBA0012012,65400.4,8475912,27-01-2022,Active,Chennai,9876543221,harshkhulekar@gmail.com
+100013,Sahil Khan,BKID0013013,12000,8475912,05-10-2021,Dormant,Bhopal,9876543222,harshkhulekar@gmail.com
+100014,Kavya Reddy,IDFC0014014,87650.8,8475912,22-02-2020,Active,Bengaluru,9876543223,harshkhulekar@gmail.com
+100015,Manish Yadav,MAHB0015015,34210.1,8475912,11-01-2024,Active,Lucknow,9876543224,harshkhulekar@gmail.com
