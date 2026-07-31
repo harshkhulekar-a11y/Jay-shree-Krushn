@@ -1,0 +1,76 @@
+EmployeeID,Name,Age,Gender,Department,Designation,Salary,Experience,City,JoinDate,ManagerID,Status
+1,Rahul Sharma,28,Male,IT,Software Engineer,55000,4,Mumbai,15-03-2020,5,Active
+2,Priya Patel,32,Female,HR,HR Manager,48000,7,Pune,01-07-2017,10,Active
+3,Amit Kumar,25,Male,Finance,Junior Accountant,42000,2,Delhi,10-01-2022,8,Active
+4,Sneha Reddy,30,Female,IT,Senior Developer,72000,6,Hyderabad,20-06-2018,5,Active
+5,Vikram Singh,,Male,IT,IT Manager,95000,20,Bangalore,05-09-2004,NULL,Active
+6,Anjali Mehta,27,Female,IT,Data Analyst,58000,3,Mumbai,12-04-2021,5,Active
+7,Rohit Verma,,Male,HR,HR Director,85000,15,Chennai,01-11-2009,10,Active
+8,Pooja Gupta,24,Female,Finance,Finance Intern,25000,1,Pune,01-06-2023,3,Active
+9,Suresh Nair,33,Male,IT,DevOps Engineer,78000,8,Hyderabad,14-02-2016,5,Active
+10,Divya Joshi,29,Female,Marketing,Marketing Manager,62000,5,Delhi,22-08-2019,NULL,Active
+11,Kiran Rao,31,Male,IT,Full Stack Developer,68000,7,Bangalore,01-12-2017,5,Active
+12,Meena Iyer,26,Female,HR,HR Executive,38000,3,Chennai,15-09-2021,7,Active
+13,Arun Pillai,38,Male,Finance,Finance Controller,92000,13,Mumbai,10-03-2011,NULL,Active
+14,Lakshmi Das,22,Female,IT,Junior QA Engineer,32000,1,Pune,20-01-2023,5,Inactive
+15,Nitin Desai,,Male,Marketing,VP Marketing,150000,20,Delhi,30-05-2004,NULL,Active
+16,Kavya Menon,28,Female,IT,Python Developer,61000,4,Hyderabad,19-07-2020,5,Active
+17,Sanjay Tiwari,36,Male,HR,HR Business Partner,55000,11,Bangalore,08-04-2013,7,Active
+18,Ritu Saxena,30,Female,Finance,Senior Accountant,52000,6,Chennai,25-10-2018,13,Active
+19,Manoj Yadav,27,Male,IT,Backend Developer,57000,3,Mumbai,17-02-2021,5,Active
+20,Geeta Chauhan,34,Female,Marketing,Digital Marketer,53000,9,Pune,30-06-2015,10,Active
+21,Praveen Kumar,29,Male,IT,Cloud Engineer,74000,5,Delhi,11-11-2019,5,Active
+22,Sunita Sharma,41,Female,HR,Payroll Manager,70000,16,Hyderabad,22-03-2008,7,Inactive
+23,Deepak Pandey,23,Male,Finance,Finance Analyst,37000,1,Bangalore,05-05-2023,13,Active
+24,Anita Singh,32,Female,IT,QA Lead,65000,8,Chennai,14-08-2016,5,Active
+25,Rajan Mishra,37,Male,Marketing,Brand Manager,67000,12,Mumbai,28-01-2012,10,Active
+26,Swati Bhatt,25,Female,IT,UI Developer,50000,2,Pune,09-03-2022,5,Active
+27,Harish Nanda,44,Male,HR,Training Manager,76000,19,Delhi,17-07-2005,7,Active
+28,Preeti Kulkarni,28,Female,Finance,Tax Analyst,46000,4,Hyderabad,01-09-2020,13,Active
+29,Ajay Bose,31,Male,IT,Security Engineer,71000,7,Bangalore,23-05-2017,5,Active
+30,Nandini Roy,26,Female,Marketing,Content Writer,40000,2,Chennai,12-08-2022,10,Inactive
+31,Sunil Jain,39,Male,IT,IT Architect,88000,14,Mumbai,28-02-2010,5,Active
+32,Rekha Kapoor,33,Female,HR,Recruitment Lead,56000,9,Pune,04-11-2015,7,Active
+33,Vinod Malhotra,27,Male,Finance,Junior Auditor,44000,3,Delhi,19-07-2021,13,Active
+34,Shalini Agarwal,30,Female,IT,ML Engineer,80000,6,Hyderabad,30-04-2018,5,Active
+35,Prakash Shetty,42,Male,Marketing,Marketing Director,110000,17,Bangalore,14-09-2007,NULL,Active
+36,Usha Pillai,24,Female,IT,Trainee Developer,30000,1,Chennai,01-08-2023,5,Active
+37,Ramesh Dubey,35,Male,HR,Employee Relations,62000,10,Mumbai,18-06-2014,7,Active
+38,Padma Venkat,29,Female,Finance,Budget Analyst,49000,5,Pune,03-12-2019,13,Active
+39,Girish Patil,32,Male,IT,Database Admin,64000,8,Delhi,21-10-2016,5,Active
+40,Archana Nair,27,Female,Marketing,SEO Specialist,43000,3,Hyderabad,27-05-2021,10,Active
+41,Dinesh Trivedi,46,Male,IT,VP Engineering,120000,21,Bangalore,15-01-2003,NULL,Active
+42,Kamala Rao,31,Female,HR,HR Analyst,50000,7,Chennai,09-08-2017,7,Active
+43,Santosh Ghosh,25,Male,Finance,Accounts Executive,39000,2,Mumbai,14-04-2022,13,Active
+44,Vimala Krishnan,38,Female,IT,Tech Lead,85000,13,Pune,26-07-2011,5,Active
+45,Hemant Shukla,33,Male,Marketing,Product Manager,73000,9,Delhi,11-03-2015,10,Active
+46,Chitra Naidu,22,Female,IT,Fresher Developer,28000,0,Hyderabad,08-01-2024,5,Active
+47,Ashok Mehra,,Male,HR,HR Head,80000,15,Bangalore,29-06-2009,NULL,Active
+48,Sarita Bajaj,28,Female,Finance,Finance Executive,47000,4,Chennai,16-11-2020,13,Active
+49,Naresh Lal,36,Male,IT,Network Engineer,66000,11,Mumbai,02-09-2013,5,Inactive
+50,Bharati Deshpande,30,Female,Marketing,Campaign Manager,54000,6,Pune,23-07-2018,10,Active
+51,Mohan Pillai,43,Male,IT,Solutions Architect,98000,18,Delhi,10-04-2006,5,Active
+52,Lata Hegde,26,Female,HR,Talent Acquisition,42000,2,Hyderabad,27-06-2022,7,Active
+53,Rajesh Tiwari,34,Male,Finance,Senior Auditor,58000,10,Bangalore,18-02-2014,13,Active
+54,Sudha Bhat,29,Female,IT,React Developer,63000,5,Chennai,07-10-2019,5,Active
+55,Arvind Saxena,37,Male,Marketing,Growth Manager,69000,12,Mumbai,15-08-2012,10,Active
+56,Nisha Yadav,23,Female,IT,Trainee QA,29000,1,Pune,20-11-2023,5,Active
+57,Sridhar Menon,41,Male,HR,HR Director,82000,16,Delhi,31-01-2008,NULL,Active
+58,Jyoti Mishra,32,Female,Finance,Financial Planner,53000,8,Hyderabad,19-05-2016,13,Active
+59,Bhushan Desai,28,Male,IT,Android Developer,60000,4,Bangalore,24-08-2020,5,Active
+60,Revathi Iyer,35,Female,Marketing,Marketing Lead,65000,10,Chennai,13-11-2014,10,Active
+61,Ganesh Kumar,27,Male,IT,iOS Developer,62000,3,Mumbai,07-06-2021,5,Active
+62,Savita Joshi,39,Female,HR,L&D Manager,72000,14,Pune,28-09-2010,7,Active
+63,Mahesh Chauhan,24,Male,Finance,Accounts Trainee,33000,1,Delhi,15-03-2023,13,Inactive
+64,Sunanda Reddy,31,Female,IT,Data Engineer,75000,7,Hyderabad,04-10-2017,5,Active
+65,Vinayak Singh,,Male,Marketing,VP Sales,125000,20,Bangalore,22-12-2004,NULL,Active
+66,Pallavi Verma,26,Female,IT,Frontend Developer,52000,2,Chennai,18-01-2022,5,Active
+67,Tejesh Nair,33,Male,HR,Compensation Analyst,57000,9,Mumbai,06-08-2015,7,Active
+68,Madhuri Gupta,28,Female,Finance,Risk Analyst,48000,4,Pune,29-04-2020,13,Active
+69,Ravi Rao,36,Male,IT,Data Scientist,88000,11,Delhi,16-07-2013,5,Active
+70,Smita Das,30,Female,Marketing,Social Media Manager,51000,6,Hyderabad,01-12-2018,10,Active
+71,Karthik Pillai,42,Male,IT,IT Manager,96000,17,Bangalore,25-03-2007,NULL,Active
+72,Deepa Kulkarni,25,Female,HR,Recruiter,40000,2,Chennai,13-09-2022,7,Active
+73,Sudhir Bose,38,Male,Finance,CFO Assistant,78000,13,Mumbai,08-11-2011,13,Active
+74,Ananya Roy,22,Female,IT,Intern Developer,22000,0,Pune,14-02-2024,5,Active
+75,Pankaj Jain,34,Male,Marketing,Brand Strategist,61000,9,Delhi,20-05-2015,10,Inactive
